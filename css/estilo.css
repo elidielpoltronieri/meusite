@@ -1,0 +1,18 @@
+h1
+{
+    color: blue;
+    font-weigth: bold;
+}
+#tituloform {
+    text-align: center;
+    text-justify: auto;
+    font-style: italic;
+}
+.color {
+    background-color: aqua;
+}
+
+body
+{
+    background-image: url("../imagens/fundo.jpg");
+}
